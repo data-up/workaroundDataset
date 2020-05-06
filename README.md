@@ -7,3 +7,7 @@ Nowadays issue tracker systems are widely used to manage bug reports. In such a 
 In this paper, we analyze 221 real workarounds that were collected from Apache projects.
 
 In dataset, we provide the jira ids, symptoms, causes, repairs, related documents, and other extracted information of collected workarounds. 
+
+## How to read dataSet
+1, download all the content under "dataSet.txt" and save it as a "UTF-16 LE" coded txt file.
+2, open the above file in excel.
