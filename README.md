@@ -10,4 +10,5 @@ In dataset, we provide the jira ids, symptoms, causes, repairs, related document
 
 ## How to read dataSet
 1, download all the content under "dataSet.txt" and save it as a "UTF-16 LE" coded txt file.
+
 2, open the above file in excel.
